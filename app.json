@@ -7,7 +7,7 @@
     "stack": "container",
   
     "env": {
-      "OWNER_NAME": {
+      "OWNER_NAME": {♡𝑽𝑨𝑴𝑷𝑰𝑹𝑬 𝑷𝑹𝑰𝑵𝑪𝑬♡🦋}
         "description": "Name for Bot Owner",
         "value": "Queen_Anita-V2",
         "required": true
@@ -15,7 +15,7 @@
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "USER_IMAGES": {
@@ -26,7 +26,7 @@
   
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "MENU": {
@@ -38,14 +38,14 @@
         "value": "https://i.imgur.com/H4qeXwa.jpeg"
       },
       "BOT_NAME": {
-        "description": " NAME FOR BOT",
+        "description": " Name of the bot ",
         "required": false,
         "value": "Queen_Anita-V2"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Asia/Islamabad"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "923279021220"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
